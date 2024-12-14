@@ -1,5 +1,4 @@
 /// <reference path="../libs/types/angularjs/angular.d.ts" />
-
 'use strict';
 
 // Create and register modules
